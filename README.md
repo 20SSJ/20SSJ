@@ -33,7 +33,6 @@
 |    ADsP    | 한국데이터산업진흥원 | 2026.06 |
 | 네트워크관리사 2급 | 한국정보통신자격협회 | 2023.12 |
 
-
 <!--
 **20SSJ/20SSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,4 +46,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📈 GitHub Activity
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/20SSJ" width="600"/>
+</a>
 -->
