@@ -7,6 +7,22 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+## 💻 Career
+
+* Experience
+
+  * [삼성청년 SW 아카데미(SSAFY) 15기](https://www.ssafy.com/) / 2026.01. ~ 2026.07.
+  * [스타트업칼리지 코코네스쿨 6기](https://gcs.gachon.ac.kr/) / 2025.02. ~ 2025.06.
+
+* Intern
+
+  * [코츠테크놀로지](https://www.cotstech.com/) / 2026.08. ~
+  * [하이비젼시스템](https://hyvision.co.kr/) / 2025.09. ~ 2025.12.
+
+## 🎓 Education
+
+* [University of Guam](https://www.uog.edu/) — Exchange Student / 2024.08. ~ 2024.12.
+
 ## 📜 Certifications
 
 |     자격증    |    발급기관    |   취득일   |
